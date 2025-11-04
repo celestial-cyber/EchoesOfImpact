@@ -1,4 +1,4 @@
-Great — here’s an updated **README.md** adapted for your repository at [https://github.com/celestial-cyber/EchoesOfImpact](https://github.com/celestial-cyber/EchoesOfImpact) that you can copy into your project.
+
 
 ---
 
@@ -112,8 +112,4 @@ Over time, ripples from users overlap, forming a **living map of kindness** that
 
 ---
 
-You can paste this `README.md` into your repo. Feel free to edit any details like your name or future features list.  
 
-Would you like me to also **create a short section for “How to Submit / Competition Notes”** (so you have a ready version for submission)?
-::contentReference[oaicite:0]{index=0}
-```
